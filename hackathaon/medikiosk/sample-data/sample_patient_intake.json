@@ -1,0 +1,12 @@
+{
+  "project": "MediKiosk",
+  "version": "1.0.0",
+  "sample_intake": {
+    "patient_id": "P-1001",
+    "chief_complaint": "Fever and mild cough for 3 days",
+    "vitals_placeholder": {
+      "temperature": "99.8 F",
+      "spO2": "98%"
+    }
+  }
+}
